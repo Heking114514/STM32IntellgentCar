@@ -103,8 +103,4 @@ B：后退
 
 R：右转
 
-S：停止"# STM32IntelligentCar" 
-=======
-# STM32IntellgentCar
-STM32IntellgentCar for my first MUC learning
->>>>>>> 0600ef54588a672ef42837b58f97c436d1c8e82e
+S：停止
